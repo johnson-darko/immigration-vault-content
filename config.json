@@ -1,0 +1,14 @@
+{
+  "minVersion": "1.0.0",
+  "announcement": {
+    "active": false,
+    "message": "",
+    "link": ""
+  },
+  "features": {
+    "pdfExport": "free",
+    "multipleVaults": "free",
+    "cloudBackup": "free",
+    "unlimitedFolders": "free"
+  }
+}
