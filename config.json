@@ -1,10 +1,10 @@
 {
-  "minVersion": "1.2.0",
-"announcement": {
-  "active": true,
-  "message": "USCIS updated Form I-485 fees. Tap to learn more.",
-  "link": "https://yoursite.com/update"
-},
+  "minVersion": "1.0.0",
+  "announcement": {
+    "active": false,
+    "message": "",
+    "link": ""
+  },
   "features": {
     "pdfExport": "free",
     "multipleVaults": "free",
